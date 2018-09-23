@@ -15,7 +15,6 @@ Group Programming Assignment 1
 - Samprati Upadhyay
 - Siddharth Sridhar
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # Features!
 
@@ -27,7 +26,7 @@ Python2.x should already be installed on Ubuntu. If it is not in your linux syst
 
 ```sh
 $ sudo add-apt-repository ppa:fkrull/deadsnakes-python2.7
-$ nsudo apt-get update 
+$ sudo apt-get update 
 $ sudo apt-get install python2.7
 ```
 #### For Windows
