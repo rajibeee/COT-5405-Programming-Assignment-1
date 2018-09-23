@@ -4,7 +4,7 @@ Group Programming Assignment 1
 
 # Submission for Group #2
 
-### Group members include
+## Group members include
 
 - Irina Lediaeva
 - Ity Bahadur
@@ -21,7 +21,7 @@ Group Programming Assignment 1
 
 Write what it does
 
-### Installation
+## Installation
 
 Python2.x should already be installed on Ubuntu. If it is not in your linux system then do the following:
 
