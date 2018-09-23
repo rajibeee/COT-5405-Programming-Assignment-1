@@ -1,6 +1,6 @@
 Group Programming Assignment 1
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://sd.keepcalm-o-matic.co.uk/i-w600/this-is-the-best-group-ever.jpg)](https://nodesource.com/products/nsolid)
 
 # Submission for Group #2
 
