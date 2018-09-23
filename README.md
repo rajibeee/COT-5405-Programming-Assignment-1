@@ -1,11 +1,19 @@
 # COT-5405
 Group Programming Assignment 1
 
+
+
+
 Group memebers include
 
-- Kedar
-- Ity
-- Siddharth
+- Irina Lediaeva
+- Ity Bahadur
+- Kedar Katabathula
+- Kush Shah
+- Radhika Maheshwari
 - Rajib Dey
-- Irina
-- 
+- Samprati Upadhyay
+- Siddharth Sridhar
+
+--- Installation guide ----
+
