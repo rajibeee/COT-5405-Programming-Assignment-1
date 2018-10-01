@@ -62,7 +62,7 @@ https://medium.com/@yangnana11/installing-python-2-on-mac-os-x-d0f1c9c4d808
 
 ### Plugins
 
-If we need to use the following funky table then......
+If we need to use the following funky table then:
 
 | Plugin | README |
 | ------ | ------ |
