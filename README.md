@@ -18,7 +18,6 @@ Group Programming Assignment 1
 
 # Features!
 
-Write what it does
 
 ## Installation
 
