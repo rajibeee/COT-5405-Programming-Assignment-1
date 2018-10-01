@@ -27,12 +27,12 @@ def Multiply(size):
         timeArray.append(productofN(size));
 	
     a = np.array(timeArray,dtype=float)
-    print("------------------------------------------------")
-    print("max time is %10.8f seconds"%a.max(axis=0)[1])
-    print("min time is %10.8f seconds"%a.min(axis=0)[1])
-    print("mean time is %10.8f seconds"%a.mean(axis=0)[1])
-    print("------------------------------------------------")
-    print("avg size is %d bytes"%a.mean(axis=0)[0])
+    #print("------------------------------------------------")
+    #print("max time is %10.8f seconds"%a.max(axis=0)[1])
+    #print("min time is %10.8f seconds"%a.min(axis=0)[1])
+    #print("mean time is %10.8f seconds"%a.mean(axis=0)[1])
+    #print("------------------------------------------------")
+    #print("avg size is %d bytes"%a.mean(axis=0)[0])
 
 
 Multiply(int(input("Enter the digit size: ")))
