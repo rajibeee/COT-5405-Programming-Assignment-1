@@ -6,18 +6,25 @@ Group Programming Assignment 1
 
 ## Group members include
 
-- Irina Lediaeva
-- Ity Bahadur
-- Kedar Katabathula
-- Kush Shah
-- Radhika Maheshwari
-- Rajib Dey
-- Samprati Upadhyay
-- Siddharth Sridhar
-
+1. Irina Lediaeva
+2. Ity Bahadur
+3. Kedar Katabathula
+4. Kush Shah
+5. Radhika Maheshwari
+6. Rajib Dey
+7. Samprati Upadhyay
+8. Siddharth Sridhar
 
 # Features!
 
+A program to multiply two n-digit signed integers (where n ranges from 1 to 1000).
+
+1. Gets a random signed integer from a range with n-size integers.
+2. Fixes the start and end time of the multiplication.
+3. Returns the sum space of variables and its multiplication time.
+4. Adds the result of the function to the array.
+5. Creates a float-type array using the numpy module.
+6. Prints the min, max and mean time and space from the array.
 
 ## Installation
 
@@ -28,6 +35,17 @@ $ sudo add-apt-repository ppa:fkrull/deadsnakes-python2.7
 $ sudo apt-get update 
 $ sudo apt-get install python2.7
 ```
+
+The time, sys and numpy libraries imported for outputting the time and space of the multiplication operation.
+
+The random library used to get random values from a range.
+
+A user needs to install the numpy module in order to run the program:
+
+```sh
+$ sudo pip3 install numpy
+```
+
 #### For Windows
 
 Follow the instructions from here:
@@ -54,14 +72,3 @@ If we need to use the following funky table then......
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-### Todos
-
- - Write MORE Tests
- - Add Night Mode
-
-License
-----
-MIT
-
-**Free Software, Hell Yeah!**
